@@ -34,11 +34,6 @@ Physics student at the **Facultad de Ciencias, UNI**, Lima, Peru.
 
 </div>
 
----
-
-<div align="center">
-<img src="https://ghchart.rshah.org/MiniLux0" alt="MiniLux0's contribution calendar" />
-</div>
 
 ---
 
