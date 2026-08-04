@@ -18,9 +18,9 @@ Physics student at the **Facultad de Ciencias, UNI**, Lima, Peru.
 
 | Project | Description |
 |---|---|
-| [**LearningCpp**](https://github.com/MiniLux0/LearningCpp) | Self-structured C++ curriculum unifying MIT 6.096 and Stanford CS106B/X/L — recursion, pointers, memory, OOP, data structures and STL, with progress tracked module by module. |
-| [**Physics-Reports**](https://github.com/MiniLux0/Physics-Reports) | Physics II (CF1B2, UNI) lab reports in LaTeX (latexmk + biber), with data processing and uncertainty propagation in Python (NumPy, SciPy, Matplotlib): Hooke's Law, Surface Tension, and Linear Expansion. |
-| [**FC-UNI**](https://github.com/MiniLux0/FC-UNI) | Open-source student platform ($0 hosting) for the UNI Facultad de Ciencias: 5 interactive curriculum maps (450+ courses), procedure/campus guides, GPA calculator, exam-solution search, and student group directory — vanilla HTML/CSS/JS with Web Components. |
+| [**LearningCpp**](https://github.com/MiniLux0/LearningCpp) | Self-structured C++ curriculum unifying MIT 6.096 and Stanford CS106B/X/L. |
+| [**Physics-Reports**](https://github.com/MiniLux0/Physics-Reports) | Physics II lab reports in LaTeX, with data analysis in Python (NumPy, SciPy). |
+| [**FC-UNI**](https://github.com/MiniLux0/FC-UNI) | Open-source student platform for the UNI Facultad de Ciencias — curricula, tools, and resources. |
 | **Quantum Computing** | *In progress* — upcoming project with Qiskit. |
 | **Python** | *Learning* — picking up the fundamentals alongside C++. |
 
