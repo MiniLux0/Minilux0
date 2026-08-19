@@ -58,6 +58,14 @@ Bridging Theoretical Physics, Quantum Computing, and Software Engineering.
 
 <div align="center">
 
-<sub><b>Physics × Code × Curiosity</b></sub>
+## LeetCode Stats
 
+<img src="https://leetcard.jacoblin.cool/minilux0?theme=dark" alt="Minilux's LeetCode Stats" width="450" />
+
+</div>
+
+<br>
+
+<div align="center">
+<sub><b>Physics × Code × Curiosity</b></sub>
 </div>
